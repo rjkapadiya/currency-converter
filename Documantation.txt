@@ -1,0 +1,11 @@
+
+=> reference website:
+
+
+flags : https://flagsapi.com/
+
+icons : https://fontawesome.com/icons
+
+icons ne use karva mate head tag mate ni link : https://cdnjs.com/libraries/font-awesome
+
+Converter api : https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/inr/inr.json
